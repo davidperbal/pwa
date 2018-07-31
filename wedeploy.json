@@ -1,4 +1,4 @@
 {
-  "id": "test",
-  "image": "wedeploy/test:0.0.3"
+  "id": "testdav",
+  "image": "wedeploy/hosting:0.0.3"
 }
